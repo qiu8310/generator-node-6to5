@@ -1,0 +1,23 @@
+{
+  "name": "<%= slugname %>",
+  "version": "<%= answers.version %>",
+  "ignore": [
+    "**/.*",
+    "build",
+    "test",
+    "*.md",
+    "AUTHORS.txt",
+    "Gruntfile.js",
+    "package.json",
+    "bower.json"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "<%= slugname %>",
+    "javascript",
+    "library"
+  ]
+}
