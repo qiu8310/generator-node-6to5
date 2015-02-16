@@ -2,7 +2,7 @@
   "name": "<%= slugname %>",
   "version": "0.0.0",
   "description": "<%= answers.description %>",
-  "author": "<%= slugname %>",
+  "author": "<%= githubUser.name %>",
   "repository": {
     "type": "git",
     "url": "<%= githubUser.html_url %>/<%= slugname %>"

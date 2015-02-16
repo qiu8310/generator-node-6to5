@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Try using [generator-node-babel](https://github.com/qiu8310/generator-node-babel) instead. for `6to5` had changed to `babel`, [click here to see detail](https://babeljs.io/blog/2015/02/15/not-born-to-die)
+
 # generator-node-6to5 
 
 > Build a new node project use 6to5 and karma
