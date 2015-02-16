@@ -13,22 +13,19 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "files": [
     "app"
   ],
   "keywords": [
-    "yeoman-generator","6to5","karma","node"
+    "yeoman-generator",
+    "6to5",
+    "karma",
+    "node"
   ],
   "dependencies": {
-    "chalk": "^0.5.0",
-    "git-config": "0.0.6",
-    "github": "^0.2.3",
-    "mkdirp": "^0.5.0",
-    "npm-name": "^1.0.2",
     "yeoman-generator": "^0.18.0",
-    "yosay": "^0.3.0"
+    "yo-helper": "0.0.1"
   },
   "devDependencies": {
     "mocha": "*"
